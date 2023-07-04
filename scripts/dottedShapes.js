@@ -30,7 +30,7 @@ class TextEffect {
 
         this.currentText = 0;
         this.text = null;
-        this.texts = ['Hello!', 'This is', 'Testing'];
+        this.texts = ['Love', 'You', 'Babe'];
 
         this.options = {
             particles: {
